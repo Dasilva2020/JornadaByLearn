@@ -1,0 +1,2 @@
+# JornadaByLearn
+Calcular média
